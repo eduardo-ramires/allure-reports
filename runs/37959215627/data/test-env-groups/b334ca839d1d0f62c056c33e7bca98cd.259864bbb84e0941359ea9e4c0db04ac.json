@@ -1,0 +1,1 @@
+{"id":"b334ca839d1d0f62c056c33e7bca98cd.259864bbb84e0941359ea9e4c0db04ac","fullName":"api/common/condominium/condominiums.spec.ts › deletar condomínio retorna 204 e GET subsequente retorna 404","name":"deletar condomínio retorna 204 e GET subsequente retorna 404","status":"passed","testResultsByEnv":{"default":"473111a1b594e17b08c824441a728f75"}}
