@@ -1,0 +1,1 @@
+{"id":"a61f7c885c5a47818ca758235a0d29a9.259864bbb84e0941359ea9e4c0db04ac","fullName":"api/common/headquarters.spec.ts › Agências › deletar agência retorna 204 e GET subsequente retorna 404","name":"deletar agência retorna 204 e GET subsequente retorna 404","status":"passed","testResultsByEnv":{"default":"83792768b1a93c34af48511a7bd77815"}}
